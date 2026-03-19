@@ -1,5 +1,4 @@
 <?php
-// config.php
 // Load environment variables (simple example using dotenv style)
 return [
     'db_host' => 'localhost',
